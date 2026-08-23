@@ -1,23 +1,15 @@
-DR. SAMARTH THAKKAR ORTHOPEDIC CLINIC WEBSITE
+DR. SAMARTH THAKKAR ORTHOPAEDIC WEBSITE — UPDATED
 
-Files included:
+Upload these items to the ROOT of your GitHub repository:
 1. index.html
-2. style.css
-3. logo.png
+2. assets/ folder (contains dr-samarth.jpg)
 
-How to upload:
-- Buy domain and hosting.
-- Open hosting file manager.
-- Upload index.html, style.css and logo.png inside the public_html folder.
-- Your website will open on your domain.
+GitHub Pages settings:
+- Source: Deploy from a branch
+- Branch: main
+- Folder: /(root)
 
-Important for Google Business Profile phone approval:
-- Keep this exact phone number visible on the website: +91 7838589031
-- Keep this exact address visible on the website: 201, 2nd Floor, Solaris Kode I, Beside Shyam Temple, VIP Road, Vesu, Surat, Gujarat 395007
-- Add your final domain link in Google Business Profile.
-- Use the same name, address and phone number in directories like Justdial, Practo, Sulekha, Bing Places and Apple Business Connect.
+The website includes mobile Call and WhatsApp buttons, treatment sections, doctor profile, FAQ, patient-review placeholders and local SEO structured data.
 
-Recommended domain names:
-- drsamarthorthopedic.com
-- drsamarththakkar.com
-- samarthorthopedicclinic.com
+IMPORTANT BEFORE PUBLISHING REVIEW TEXT:
+Replace the three testimonial placeholders with short excerpts from genuine patient reviews.
