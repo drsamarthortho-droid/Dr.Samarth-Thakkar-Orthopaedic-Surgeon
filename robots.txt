@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drsamarthortho-droid.github.io/Dr.Samarth-Thakkar-Orthopaedic-Surgeon/sitemap.xml

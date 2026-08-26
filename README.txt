@@ -1,15 +1,15 @@
-DR. SAMARTH THAKKAR ORTHOPAEDIC WEBSITE — UPDATED
+DR. SAMARTH THAKKAR ORTHOPAEDIC WEBSITE – SEO UPGRADE
 
-Upload these items to the ROOT of your GitHub repository:
-1. index.html
-2. assets/ folder (contains dr-samarth.jpg)
+Upload all files in this folder to the ROOT of the existing GitHub repository.
+Keep GitHub Pages set to: main / (root).
 
-GitHub Pages settings:
-- Source: Deploy from a branch
-- Branch: main
-- Folder: /(root)
+Improvements:
+- Multi-page local SEO structure
+- Dedicated treatment pages
+- Full clinic address in structured data
+- Canonical/meta/Open Graph tags
+- sitemap.xml and robots.txt
+- Improved mobile Call/WhatsApp conversion
+- Better internal linking
 
-The website includes mobile Call and WhatsApp buttons, treatment sections, doctor profile, FAQ, patient-review placeholders and local SEO structured data.
-
-IMPORTANT BEFORE PUBLISHING REVIEW TEXT:
-Replace the three testimonial placeholders with short excerpts from genuine patient reviews.
+After publishing, submit sitemap.xml in Google Search Console.
